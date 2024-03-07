@@ -1,2 +1,2 @@
-1. Github 티셔츠_cjy
-2. 파이썬 티셔츠_cjy
+1. Github 티셔츠_cjy_수정1
+2. 파이썬 티셔츠_cjy_수정1
